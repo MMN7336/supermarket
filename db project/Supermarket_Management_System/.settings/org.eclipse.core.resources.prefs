@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/com/myapp/db/DBConnection.java=UTF-8
+encoding//src/com/myapp/model/Role.java=UTF-8
+encoding//src/com/myapp/model/User.java=UTF-8
+encoding//src/com/myapp/view/CashierDashboard.java=UTF-8
+encoding//src/com/myapp/view/GlobalAdminDashboard.java=UTF-8
+encoding//src/com/myapp/view/LocalAdminDashboard.java=UTF-8
+encoding//src/com/myapp/view/LoginPage.java=UTF-8
+encoding//src/com/myapp/view/ManageProductsPage.java=UTF-8
+encoding//src/com/myapp/view/ManageUsersPage.java=UTF-8
+encoding//src/com/myapp/view/SystemSalesReportPage.java=UTF-8
+encoding//src/com/myapp/view/SystemSettingsPage.java=UTF-8
